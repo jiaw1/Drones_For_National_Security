@@ -14,3 +14,12 @@ If we assume costs and technology are not the issues, how might we utilize vast 
 In this project we want to focus first on smaller context and scale the solutions up to national, and even EU level. How might a massive fleet of drones operating autonomously be visualized, controlled, and ultimately execute their missions in the varied and harsh conditions we live in? If we would have such fleets at our disposal, what other value could we create with them while they are patrolling?
 
 Join the project if you are interested in drones, future tech or usability of massive systems!
+
+Related tags:
+
+#6g
+#bf
+#defence
+#drones
+#resilience
+#security
