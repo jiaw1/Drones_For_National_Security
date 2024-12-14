@@ -1,11 +1,10 @@
-# drones_for_national_security
+# Drones for National Security
+
 Project for DEMOLA
 
 Description:
 
 Byte-powered Future & Value Creators of Tomorrow
-
-Drones For National Security
 
 Because of the turmoil in the global geopolitics, new ways to monitor and protect crucial infrastructure is becoming an important issue. We have seen the rise of drones in the Russian war on Ukraine and importance of them. In Finland we have also felt the threat of sabotage and hybrid influence. 6G technologies offer completely new tools to manage and control vast fleets of drones with unparallel accuracy.
 
