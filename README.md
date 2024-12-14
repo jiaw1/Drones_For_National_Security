@@ -1,7 +1,7 @@
 # drones_for_national_security
 Project for DEMOLA
 
-Project Description:
+Description:
 
 Byte-powered Future & Value Creators of Tomorrow
 
