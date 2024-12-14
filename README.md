@@ -5,11 +5,8 @@ Project Description:
 
 Byte-powered Future
 
-Value Creators of Tomorrow
+Value Creators of Tomorrow & Drones For National Security
 
-Drones For National Security
-
-Description
 Because of the turmoil in the global geopolitics, new ways to monitor and protect crucial infrastructure is becoming an important issue. We have seen the rise of drones in the Russian war on Ukraine and importance of them. In Finland we have also felt the threat of sabotage and hybrid influence. 6G technologies offer completely new tools to manage and control vast fleets of drones with unparallel accuracy.
 
 If we assume costs and technology are not the issues, how might we utilize vast drone fleets to monitor and secure the critical infrastructure in Finland? May it be nuclear power plants, water treatment facilities or power grid, the sheer scale of this infrastructure makes it almost impossible to do without the smart use of technology.
